@@ -1,0 +1,59 @@
+.point{
+  background-color: #FCECEC;
+}
+
+.point a{
+  color: #4D4D4D;
+}
+
+.contact tr{
+  height: 7rem;
+}
+
+.contact th{
+  width:150px;
+  text-align: right;
+  padding-right: 10px;
+}
+
+.name{
+  width:480px;
+}
+.adress{
+  width:480px;
+}
+.text{
+  width:480px;
+}
+.phonenumber{
+  width:480px;
+}
+
+.submit{
+  margin :10px;
+  padding: 10px 10px;
+  color: white;
+  font-size:3rem;
+  background-color: #5D99FF	;
+}
+
+.submit:hover {
+  opacity: 0.5;
+}
+
+.footer{
+  position:absolute;
+  bottom: 0;
+  height:100px;
+}
+.sousin{
+  text-align: center;
+}
+textarea{resize: vertical;
+min-height: 15px;
+max-height: 90px;
+}
+.image_area2{
+  width: 300px;
+  height: 300px;
+}
